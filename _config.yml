@@ -1,0 +1,28 @@
+name: ariplay
+favicon: null
+layout_spectrum: 0.43861342780292034
+typography_spectrum: 0.6603339284192771
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.2245161347091198
+  lightness: 0.519466414116323
+  saturation: 0.06300503294914961
+  rhythmicContrast: 0.40853037615306675
+purpose: []
